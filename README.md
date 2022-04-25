@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 
 [![Gmail Badge](https://img.shields.io/badge/-lapilopi16@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lapilopi16@gmail.com)](mailto:lapilopi16@gmail.com) 
 [![Gmail Badge](https://img.shields.io/badge/-odilonpetra@mail.ugm.ac.id-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:odilonpetra@mail.ugm.ac.id)](mailto:odilonpetra@mail.ugm.ac.id) 
-[![Linkedin Badge](https://img.shields.io/badge/-l-odilon-petra-i-93a12a1bb?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l-odilon-petra-i-93a12a1bb/)](https://www.linkedin.com/in/l-odilon-petra-i-93a12a1bb/) [![Github Badge](https://img.shields.io/badge/-l-odilon-petra-i-93a12a1bb-grey?
-style=flat&logo=github&logoColor=white&link=https://github.com/dilonpetra/)](https://www.github.com/dilonpetra/) <p align='left'>
+[![Linkedin Badge](https://img.shields.io/badge/-prissynusaiba-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l-odilon-petra-i-93a12a1b/)](https://www.linkedin.com/in/l-odilon-petra-i-93a12a1b/) [![Github Badge](https://img.shields.io/badge/-prissyyy-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dilonpetra/)](https://www.github.com/dilonpetra/) <p align='left'>
 
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=dilonpetra alt=dilonpetra /> </p>
