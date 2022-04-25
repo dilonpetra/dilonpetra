@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Lukas Odilon Petra Indrayanta
 
 <!--
 **dilonpetra/dilonpetra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 -->
 
 [![Gmail Badge](https://img.shields.io/badge/-lapilopi16@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lapilopi16@gmail.com)](mailto:lapilopi16@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-odilonpetra@mail.ugm.ac.id-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:odilonpetra@mail.ugm.ac.id)](mailto:odilonpetra@mail.ugm.ac.id) 
+
 
 
 
