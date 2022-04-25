@@ -24,10 +24,11 @@ Here are some ideas to get you started:
 ### My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=prissyyy alt=prissyyy /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=prissyyy&show_icons=true&include_all_commits=true&bg_color=0,f7f7f7,7957d5&icon_color=eb1f6a&title_color=260000&text_color=000)](https://github.com/prissyyy/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prissyyy&layout=compact&bg_color=141321&title_color=fff&text_color=fff)](https://github.com/prissyyy/github-readme-stats)
+
 -->
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=dilonpetra alt=dilonpetra /> </p>
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=dilonpetra&show_icons=true&include_all_commits=true&bg_color=0,f7f7f7,7957d5&icon_color=eb1f6a&title_color=260000&text_color=000)](https://github.com/dilonpetra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilonpetra&layout=compact&bg_color=141321&title_color=fff&text_color=fff)](https://github.com/dilonpetra/github-readme-stats)
 
